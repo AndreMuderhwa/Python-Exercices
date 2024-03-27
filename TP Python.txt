@@ -1,0 +1,12 @@
+1.Créez une liste de nombres et affichez le premier et le dernier élément
+	-Ajoutez un élément à la fin de la liste.
+	-Supprimez un élément de la liste
+
+2.Créez une liste de 10 éléments et affichez les éléments du 3e au 7e.
+
+3.Créez un dictionnaire avec des informations sur une personne (nom, âge, ville) et affichez une de ces informations.
+	-Modifiez la valeur d'une clé dans le dictionnaire.
+	-Ajoutez une nouvelle paire clé-valeur.
+	-Utilisez une boucle pour afficher toutes les clés du dictionnaire.
+	-Utilisez une autre boucle pour afficher toutes les valeurs du dictionnaire.
+
